@@ -1,0 +1,2 @@
+Este é um arquivo texto.
+Estou alterando esse arquivo.
