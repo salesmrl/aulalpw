@@ -1,3 +1,0 @@
-Este é um arquivo texto.
-Estou alterando esse arquivo.
-Estou incluindo uma nova linha.
